@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "2023functionprj",
+  "name": "functionprj2023",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "55.0"
